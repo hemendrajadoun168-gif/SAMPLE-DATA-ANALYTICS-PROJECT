@@ -100,6 +100,9 @@ Dashboard Features:
 🎯 KPI Cards (Sales, Profit, Loss)
 
 
+<img width="764" height="435" alt="Screenshot 2026-02-11 122019" src="https://github.com/user-attachments/assets/357a4edb-cee0-4e3e-aa4c-c9cc98d2a738" />
+
+
 
 💡 Key Insights
 
